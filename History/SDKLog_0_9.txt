@@ -1,0 +1,29 @@
+2021-8-20_15:28:32 1420 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 1 t1/2 1 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 2 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+"HRSDK version" does not match "HRSS SDK version", some functions can't be used.
+2021-8-20_15:28:32 2001 1 58751 65529 45176 9 53535 65535 55535 65535 0 0 0 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2021-8-20_15:28:35 2001 1 0 0 45176 9 53535 65535 55535 65535 0 0 0 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2021-8-20_15:28:38 2001 1 15535 65535 1248 7 53535 65535 55535 65535 0 0 0 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2021-8-20_15:28:41 2001 1 58751 65529 1248 7 53535 65535 55535 65535 0 0 0 0  0 
+2021-8-20_15:28:44 2001 1 0 0 45176 9 34071 65534 33071 65534 0 0 0 0  0 
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 5 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 1 sz 37
+hdl 0 cmd 0 rlt 4702 alv 0 alm 0 msts 1 op 0 t1/2 0 pl 0.00 ov 10 fo 0000 coord 0 sz 31
+2021-8-20_15:28:47 2001 1 0 0 1248 7 38071 65534 12535 65535 0 0 0 0  0 
+Network disconnected !SDK handle fun close connection !
+ShutdownAndColse socket= 000001EDDDFA97C8
+ShutdownAndColse socket= 000001EDDDFA97D0
+ShutdownAndColse socket= 000001EDDDFA97D8
+Close connection !
+192.168.1.2 0
